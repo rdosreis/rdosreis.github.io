@@ -6,10 +6,19 @@
     <description>Recent content in R on Rodrigo Citton P. dos Reis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Teste 1</title>
+      <link>/2019/11/14/teste-1/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/14/teste-1/</guid>
+      <description>Este é o meu primeiro post aqui no site e eu não poderia deixar de falar sobre regressão.Mas, como já é tarde, vou deixar para próximo post.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
