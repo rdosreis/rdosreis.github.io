@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on rdosreis</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on rdosreis</description>
+    <title>covid-19 on rdosreis</title>
+    <link>/tags/covid-19/</link>
+    <description>Recent content in covid-19 on rdosreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/covid-19/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>/2020/05/01/mob-plot/</guid>
       <description>No último mês, a Google vem disponibilizando relatórios sobre a mobilidade das comunidades com o intuito de fornecer informações sobre o que mudou em resposta às políticas destinadas a combater o COVID-19. Os relatórios traçam tendências de movimento ao longo do tempo por região geográfica, em diferentes categorias de lugares, como varejo e recreação, compras e farmácias, parques, estações de trânsito, locais de trabalho e residenciais.
 O relatório mais recente foi publicado hoje (01/05/2020).</description>
-    </item>
-    
-    <item>
-      <title>boas-vindas!</title>
-      <link>/2019/11/16/boas-vindas/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/11/16/boas-vindas/</guid>
-      <description>Sejam todos bem-vindos ao meu site! Este é um território livre para conversarmos sobre estatística e ciência de dados; teoria e aplicação; ensino, pesquisa, extensão e inovação.</description>
     </item>
     
   </channel>
