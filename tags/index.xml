@@ -6,10 +6,33 @@
     <description>Recent content in Tags on rdosreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>estimativas ponderadas</title>
+      <link>/tags/estimativas-ponderadas/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/estimativas-ponderadas/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pesos de amostragem</title>
+      <link>/tags/pesos-de-amostragem/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pesos-de-amostragem/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>PNS</title>
+      <link>/tags/pns/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>covid-19</title>

@@ -6,10 +6,16 @@
     <description>Recent content on rdosreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Estimativas ponderadas em levantamentos por amostragem</title>
+      <link>/2022/11/08/estimativas-ponderadas-em-levantamentos-por-amostragem/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/11/08/estimativas-ponderadas-em-levantamentos-por-amostragem/</guid>
+      <description>No último dia 21 de outubro, tive o prazer de participar da XXVII Semana da Estatística da Universidade Federal do Pará, apresentando o seminário “Estimativas ponderadas em levantamentos por amostragem: aplicações na Pesquisa Nacional de Saúde”. Agradeço à Comissão Organizadora do evento, em especial o Professor Paulo Cerqueira dos Santos Junior pelo convite, e à audiência de alunos e alunas do curso de Estatística da UFPA.
+Nesta ocasião pude falar rapidamente de alguns trabalhos que participei sobre a Epidemiologia do Diabetes utilzando dados da Pesquisa Nacional de Saúde (PNS).</description>
+    </item>
     
     <item>
       <title>mob plot</title>
@@ -36,8 +42,8 @@ O relatório mais recente foi publicado hoje (01/05/2020).</description>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Desde outubro de 2017 eu sou Professor Assistente do Departamento de Estatística e faço parte do Corpo Docente do Programa de Pós Graduação em Epidemiologia da Universidade Federal do Rio Grande do sul (UFRGS). Além disso, eu atuo como pesquisador no Estudo Longitudinal de Saúde do Adulto (ELSA-Brasil).
-Eu me formei Bacharel em Estatística pelo Departamento de Estatística da UFRGS em 2007, e Mestre (2010) e Doutor (2014) em Estatística pelo Programa de Pós Graduação em Estatística da Universidade Federal de Minas Gerais.</description>
+      <description>Desde outubro de 2017 eu sou Professor Assistente do [Departamento de Estatística] (https://www.ufrgs.br/ime/departamentos/estatistica/) e faço parte do Corpo Docente do Programa de Pós Graduação em Epidemiologia da Universidade Federal do Rio Grande do sul (UFRGS). Além disso, eu atuo como pesquisador no Estudo Longitudinal de Saúde do Adulto (ELSA-Brasil).
+Eu me formei Bacharel em Estatística pelo [Departamento de Estatística] (https://www.ufrgs.br/ime/departamentos/estatistica/) da UFRGS em 2007, e Mestre (2010) e Doutor (2014) em Estatística pelo Programa de Pós Graduação em Estatística da Universidade Federal de Minas Gerais.</description>
     </item>
     
   </channel>
