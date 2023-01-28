@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.83.1" />
+
+
+<title>GBDraweR 01 - rdosreis</title>
+<meta property="og:title" content="GBDraweR 01 - rdosreis">
+
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/pvfc_logo.jpg"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="https://github.com/rdosreis">github</a></li>
+    
+    <li><a href="http://lattes.cnpq.br/3867312117732056">lattes</a></li>
+    
+    <li><a href="/about/">sobre</a></li>
+    
+    <li><a href="https://twitter.com/RodrigoSolve">twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">2 min read</span>
+    
+
+    <h1 class="article-title">GBDraweR 01</h1>
+
+    
+    <span class="article-date">2023-01-27</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>No começo deste ano, fui convidado para participar de uma disciplina no <a href="https://www.ufrgs.br/ppgepi/">Programa de Pós-Graduação em Epidemiologia</a> da UFRGS como aluno! Trata-se da disciplina <em>“Descriptive Epidemiology of Diseases and Injuries: the Global Burden of Disease Study”</em>, ministrada pelos professores <a href="http://lattes.cnpq.br/4862166496983255">Bruce Duncan</a>, <a href="http://lattes.cnpq.br/1447301799959291">Bárbara Goulart</a> e <a href="https://depts.washington.edu/healthms/people/ewerton-cousin/">Ewerton Cousin</a>, e conta com a participação de professores e pesquisadores do estudo GBD e <em>GBD Brazil Network</em>.</p>
+<p>Este tem sido o meu primeiro contato mais aprofundado com os dados do GBD. Ao longo do semestre, pretendo realizar uma série de <em>posts</em> sobre o que vou aprendendo relacionado ao <strong>estudo GBD</strong>, às <strong>métricas</strong> utilizadas no GBD e aos <strong>modelos estatísticos</strong> empregados nas análises do GBD. Mas, o principal tema destes <em>posts</em> será a utilização do <code>R</code> para construir gráficos complementares aqueles disponibilizados pelo GBD.</p>
+<div id="o-que-é-o-gbd" class="section level2">
+<h2>O que é o GBD?</h2>
+<p>Segundo o próprio site do <a href="https://www.healthdata.org/gbd/2019">GBD</a>:</p>
+<blockquote>
+<p>“O <em>Global Burden of Disease</em> (GBD) é uma ferramenta que fornece um quadro abrangente de <strong>mortalidade e incapacidade</strong> em todos os <strong>países, tempo, idade e sexo</strong>”.</p>
+</blockquote>
+<p>Utilizando uma <a href="https://extranet.who.int/kobe_centre/en/what_we_do/health-emergencies/research-methods/sections-and-chapters/chapter2-3-disease-burden#:~:text=A%20burden%20of%20disease%20approach,that%20integrates%20mortality%20and%20disability.">abordagem de carga de doenças</a>, o GBD quantifica a perda de saúde de centenas de <strong>doenças, lesões e fatores de risco</strong>, para que os sistemas de saúde possam ser melhorados e as disparidades eliminadas.</p>
+<p>O <a href="https://www.healthdata.org/"><em>Institute for Health Metrics and Evaluation</em> (IHME)</a> da <a href="https://www.washington.edu/"><em>University of Washington</em></a> atua como centro coordenador do GBD. Pesquisadores individuais com especialidades em várias áreas temáticas também fazem parte de uma <a href="https://www.healthdata.org/gbd/call-for-collaborators">rede de colaboradores do estudo GBD</a>. <a href="https://www.healthdata.org/gbd/about/history">Atualizações das estimativas</a> são feitas periodicamente e diversos <a href="https://www.healthdata.org/gbd/publications">artigos e relatórios de políticas</a> vem sendo produzidos a partir dos achados do estudo GBD.</p>
+<p>Para produzir estimativas globais de mortalidade e incapacidade de tantas doenças, ao longo do tempo e para diferentes localidades, o GBD combina uma grande variedade de fontes e tipos de dados, tais como: censos e levantamentos por amostragem, registros vitais, autópsias verbais, registros de agravos, literatura científica, entre outros. Os diferentes conjuntos de dados utilizados pelo GBD são catalogados e a informação é compartilhada pelo <a href="https://ghdx.healthdata.org/"><em>Global Health Data Exchange</em> (GHDx)</a>.</p>
+<p>O estudo GBD também utiliza diversos métodos e modelos estatísticos para harmonizar os dados e obter estimativas (pontuais e intervalares) para diferentes métricas de mortalidade e incapacidade, tais como DALYs, YLLs, YLDs, HALE, expectativa de vida, entre outras. Ferramentas para a <a href="https://www.healthdata.org/gbd/data-visualizations">visualização de dados</a> são disponibilizadas pelo GBD para que pesquisadores e tomadores de decisão possam acompanhar as estimativas produzidas pelo estudo. Entre estas, destaca-se o <a href="https://vizhub.healthdata.org/gbd-compare/"><em>GBD Compare</em></a>, uma ferramenta interativa que produz uma variedade de gráficos e mapas.</p>
+</div>
+
+    </div>
+  </article>
+
+  
+<section id="comments">
+  <div id="disqus_thread"></div>
+<script>
+
+
+
+
+
+(function() { 
+var d = document, s = d.createElement('script');
+s.src = 'https://rdosreis.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript><html>
+</section>
+
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-152719276-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+  </body>
+</html>
+
