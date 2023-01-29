@@ -6,7 +6,17 @@
     <description>Recent content in GBD on rdosreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gbd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gbd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GBDrawer 02 - A carga de COPD por idade</title>
+      <link>/2023/01/28/gbdrawer-02-a-carga-de-copd-por-idade/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/01/28/gbdrawer-02-a-carga-de-copd-por-idade/</guid>
+      <description>Em uma das primeiras aulas do curso “Descriptive Epidemiology of Diseases and Injuries: the Global Burden of Disease Study” (PPGEpi/UFRGS) foi discutido um exemplo a respeito da doença pulmonar obstrutiva crônica (chronic obstructive pulmonary disease, COPD). Neste post, vamos ver como construir um gráfico para apresentar a carga de COPD por faixa etária.
+COPDA COPD é uma inflamação crônica dos pulmões que causa tosse, dificuldade respiratória, muco e chiado no peito.</description>
+    </item>
+    
     <item>
       <title>GBDraweR 01</title>
       <link>/2023/01/27/gbdrawer-01/</link>
