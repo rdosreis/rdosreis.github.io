@@ -6,7 +6,17 @@
     <description>Recent content on rdosreis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GBDrawer 03 - A carga de COPD por idade (Parte 2)</title>
+      <link>/2023/02/04/gbdrawer-02-a-carga-de-copd-por-idade-parte-2/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/02/04/gbdrawer-02-a-carga-de-copd-por-idade-parte-2/</guid>
+      <description>No último post discutimos a construção de gráficos para apresentação da carga de doença pulmonar obstrutiva crônica (chronic obstructive pulmonary disease, COPD). Utilizamos gráficos de barras para descrever a distribuição de DALYs por faixa etária. Neste novo post continuaremos a discutir este exemplo, apresentando um gráfico de pirâmide como alternativa aos gráficos de barras simples.
+Gráfico de pirâmideO gráfico de pirâmide é um gráfico muito utilizado para apresentar a distribuição etária de uma população por gênero.</description>
+    </item>
+    
     <item>
       <title>GBDrawer 02 - A carga de COPD por idade</title>
       <link>/2023/01/28/gbdrawer-02-a-carga-de-copd-por-idade/</link>
