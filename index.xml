@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Publicações e Orientações</title>
+      <link>/pubs/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/pubs/</guid>
+      <description>PublicaçõesCHWAL, BRUNA CRISTINE; DOS REIS, RODRIGO CITTON PADILHA; SCHMIDT, MARIA INÊS; DUNCAN, BRUCE B.; BARRETO, SANDHI MARIA; GRIEP, ROSANE HARTER. Levels and correlates of risk factor control in diabetes mellitus -ELSA-Brasil. Diabetology &amp;amp; Metabolic Syndrome. 2023; 15(1), 1-9. [doi:10.1186/s13098-022-00961-3].REIS, RODRIGO CITTON PADILHA DOS; DUNCAN, BRUCE BARTHOLOW; MALTA, DEBORAH CARVALHO; ISER, BETINE PINTO MOEHLECKE; SCHMIDT, MARIA INÊS. Evolution of diabetes in Brazil: prevalence data from the 2013 and 2019 Brazilian National Health Survey.</description>
+    </item>
+    
+    <item>
       <title>GBDraweR 03 - A carga de COPD por idade (Parte 2)</title>
       <link>/2023/02/04/gbdrawer-02-a-carga-de-copd-por-idade-parte-2/</link>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
@@ -72,8 +81,8 @@ O relatório mais recente foi publicado hoje (29/01/2023).</description>
       <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Desde outubro de 2017 eu sou Professor Assistente do [Departamento de Estatística] (https://www.ufrgs.br/ime/departamentos/estatistica/) e faço parte do Corpo Docente do Programa de Pós Graduação em Epidemiologia da Universidade Federal do Rio Grande do sul (UFRGS). Além disso, eu atuo como pesquisador no Estudo Longitudinal de Saúde do Adulto (ELSA-Brasil).
-Eu me formei Bacharel em Estatística pelo [Departamento de Estatística] (https://www.ufrgs.br/ime/departamentos/estatistica/) da UFRGS em 2007, e Mestre (2010) e Doutor (2014) em Estatística pelo Programa de Pós Graduação em Estatística da Universidade Federal de Minas Gerais.</description>
+      <description>Desde outubro de 2017 eu sou Professor do Departamento de Estatística e faço parte do Corpo Docente do Programa de Pós Graduação em Epidemiologia da Universidade Federal do Rio Grande do sul (UFRGS). Além disso, eu atuo como pesquisador no Estudo Longitudinal de Saúde do Adulto (ELSA-Brasil).
+Eu me formei Bacharel em Estatística pelo Departamento de Estatística da UFRGS em 2007, e Mestre (2010) e Doutor (2014) em Estatística pelo Programa de Pós Graduação em Estatística da Universidade Federal de Minas Gerais.</description>
     </item>
     
   </channel>
